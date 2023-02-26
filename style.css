@@ -1,37 +1,72 @@
 .header{
-font-size: 20px;
-padding: 10px;
-text-align: center;
-padding-bottom: 10px;
+    padding-left: 30%;
+    margin: 20px;
+    font-size: 20px;
+    border-bottom: 1px solid gray;   
 }
 
-a{
-    color: grey;
+ .nav a{
     text-decoration: none;
-    margin: 15px;
-}
+    color:grey ;
+    margin: 15px; 
+ }
 
-img{
-    padding: 0px 120px 0px;
-    
-}
-
-h1,span{
-    padding: 20px
-}
-  
-h3{
-    font-size: 15px;
-    padding: 10px 0 0 70px;
-
-}
-
-p{
-    border: 20px solid green;
-    margin: 80px;
-    margin-top: 20px;
-    
-}
-
-    
+ .main h1, .main img{
+    padding: 10px;
    
+ }
+ .main2{
+    padding: 10px;
+   
+ }
+
+ .main3{
+    padding: 10px;
+    
+ }
+
+.green {
+    border: 20px solid green;
+    width: 70%;  
+}
+
+.grey{
+    border: 20px solid grey;
+    width: 30%;
+}
+
+.analog{
+    display: flex;
+    padding: 10px;
+    margin: 30px;
+    
+}
+
+.green2{
+    border: 20px solid green;
+    width: 85%;  
+}
+
+.grey2{
+    border: 20px solid grey;
+    width: 15%;
+}
+
+.green3{
+    border: 20px solid green;
+    width: 70%;
+}
+
+.grey3{
+    border: 20px solid grey;
+    width: 30%;
+}
+
+.liniya{
+    border-bottom: 1px solid grey;
+}
+
+.Grafika,.geymplay,.syujet{
+    font-size: 20px;
+  margin: 30px;
+}
